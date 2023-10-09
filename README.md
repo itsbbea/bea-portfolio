@@ -10,7 +10,7 @@ By creating a webpage portfolio, this will help me present my professional profi
 N/A
 
 ## Usage
-Please use the URL: to access the website. From there, you can find navigation links at the top, which will direct you to the About Me section, my list of Projects under the Work tab, useful contacts to reach out to me, and a copy of my Resume.
+Please use the URL: https://itsbbea.github.io/bea-portfolio/ to access the website. From there, you can find navigation links at the top, which will direct you to the About Me section, my list of Projects under the Work tab, useful contacts to reach out to me, and a copy of my Resume.
 
 ## Credits
 N/A
